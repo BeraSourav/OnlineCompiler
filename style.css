@@ -1,0 +1,49 @@
+
+
+.opt{
+    background-color: rgb(84, 201, 205);
+    
+    margin-bottom: 1em;
+    font-weight:bold;
+}
+
+button{
+    color: white;
+    border: 2px solid red;
+    background-color: rgb(27, 7, 7);
+    font-weight: bold;
+}
+
+button:hover{
+    color: black;
+    background-color: beige;
+}
+
+#first{
+    color:rgb(17, 164, 233);
+    
+}
+
+body{
+    align-content: center;
+    background-color: #02090d;
+}
+
+#heading{
+    color: rgb(133, 116, 149);
+}
+
+
+
+#blockk{
+    display: block;
+    display: none;
+    width: 500px;
+    height: 40px;
+    background-color:#fdfdfd ;
+    position: absolute;
+    top: 95%;
+    left:0.665em;
+    
+
+}
